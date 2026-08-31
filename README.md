@@ -100,13 +100,5 @@ saber si el campo es obligatorio. Esto aprovecha la API del navegador tal
 como está pensada, en vez de reimplementar a mano una lógica que el propio
 `required` ya resuelve.
 
-## Cómo visualizar el proyecto
-1. Clonar el repositorio: `git clone [URL-del-repo]`
-2. Abrir la carpeta en Visual Studio Code.
-3. Clic derecho en `index.html` (de cada parte) → **"Open with Live Server"**.
-   - Parte 1: `parte-1-tablero-tareas/index.html`
-   - Parte 2: `parte-2-formulario-colaborador/index.html`
 
-
-## Autor
-[luis Eduardo hHrrera sperandio ]
+[luis Eduardo Herrera sperandio ]
